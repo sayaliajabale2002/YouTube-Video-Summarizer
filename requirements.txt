@@ -1,0 +1,10 @@
+fastapi
+langchain
+langgraph
+uvicorn 
+youtube-transcript-api
+
+langchain-google-genai
+dotenv
+
+streamlit
